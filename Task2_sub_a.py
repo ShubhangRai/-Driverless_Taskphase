@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import rospy
 from Tutorials.msg import Candidate
 def callback(data):
