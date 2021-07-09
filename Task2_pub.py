@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import rospy
 from Tutorials.msg import Candidate
 rospy.shubh_node('input')
